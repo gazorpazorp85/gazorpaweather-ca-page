@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf22585051eb95b149e7840b30d55a7e",
+    "revision": "11a593499050ded73907170773dd6fd8",
     "url": "/gazorpaweather-ca-page/index.html"
   },
   {
