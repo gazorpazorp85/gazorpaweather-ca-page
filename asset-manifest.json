@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/gazorpaweather-ca-page/static/css/main.dcda2d93.chunk.css",
+    "main.js": "/gazorpaweather-ca-page/static/js/main.20440179.chunk.js",
+    "main.js.map": "/gazorpaweather-ca-page/static/js/main.20440179.chunk.js.map",
+    "runtime-main.js": "/gazorpaweather-ca-page/static/js/runtime-main.7a49c1d5.js",
+    "runtime-main.js.map": "/gazorpaweather-ca-page/static/js/runtime-main.7a49c1d5.js.map",
+    "static/js/2.f31cb5a1.chunk.js": "/gazorpaweather-ca-page/static/js/2.f31cb5a1.chunk.js",
+    "static/js/2.f31cb5a1.chunk.js.map": "/gazorpaweather-ca-page/static/js/2.f31cb5a1.chunk.js.map",
+    "index.html": "/gazorpaweather-ca-page/index.html",
+    "precache-manifest.c1ab650d6394e0a44ee77565288643b8.js": "/gazorpaweather-ca-page/precache-manifest.c1ab650d6394e0a44ee77565288643b8.js",
+    "service-worker.js": "/gazorpaweather-ca-page/service-worker.js",
+    "static/css/main.dcda2d93.chunk.css.map": "/gazorpaweather-ca-page/static/css/main.dcda2d93.chunk.css.map",
+    "static/js/2.f31cb5a1.chunk.js.LICENSE.txt": "/gazorpaweather-ca-page/static/js/2.f31cb5a1.chunk.js.LICENSE.txt",
+    "static/media/15.png": "/gazorpaweather-ca-page/static/media/15.39ac499c.png",
+    "static/media/16.png": "/gazorpaweather-ca-page/static/media/16.0cf9cad1.png",
+    "static/media/17.png": "/gazorpaweather-ca-page/static/media/17.3c85da3e.png",
+    "static/media/41.png": "/gazorpaweather-ca-page/static/media/41.421c13f1.png",
+    "static/media/global.scss": "/gazorpaweather-ca-page/static/media/paolo_groppi.60c916d5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a49c1d5.js",
+    "static/js/2.f31cb5a1.chunk.js",
+    "static/css/main.dcda2d93.chunk.css",
+    "static/js/main.20440179.chunk.js"
+  ]
+}
