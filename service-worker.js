@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gazorpaweather-ca-page/precache-manifest.c1ab650d6394e0a44ee77565288643b8.js"
+  "/gazorpaweather-ca-page/precache-manifest.ee7803261e3e878f3c28239e1a82ef39.js"
 );
 
 self.addEventListener('message', (event) => {

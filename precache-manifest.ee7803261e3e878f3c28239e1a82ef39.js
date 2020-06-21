@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a05a111be3711a5d3a5c6d2ad61a07e7",
+    "revision": "bf22585051eb95b149e7840b30d55a7e",
     "url": "/gazorpaweather-ca-page/index.html"
   },
   {
-    "revision": "08388c8dbc813f6362f4",
+    "revision": "bf60a89997c23e931cab",
     "url": "/gazorpaweather-ca-page/static/css/main.dcda2d93.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gazorpaweather-ca-page/static/js/2.f31cb5a1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "08388c8dbc813f6362f4",
-    "url": "/gazorpaweather-ca-page/static/js/main.20440179.chunk.js"
+    "revision": "bf60a89997c23e931cab",
+    "url": "/gazorpaweather-ca-page/static/js/main.aecb2b92.chunk.js"
   },
   {
     "revision": "a0e24f1b1ef6a989bd0c",
